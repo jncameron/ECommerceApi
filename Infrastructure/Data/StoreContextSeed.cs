@@ -1,5 +1,4 @@
-﻿using Core.Entities;
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.Extensions.Logging;
 using System.Text.Json;
 
 namespace Infrastructure.Data
